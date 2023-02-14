@@ -1,5 +1,5 @@
 # optimistic-L2
-Trying to make L2 chain, Optimistic/zkRollup
+Making L2 chain, Optimistic/zkRollup
 
 
 The Rollup contract functionalities -
